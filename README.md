@@ -14,3 +14,6 @@ Usei o 'ChatGPT' para sintetizar e revisar o roteiro do vídeo. O 'Fliki' foi es
 
 ## 🚀 Resultados
 O vídeo é uma janela para o futuro, levando o espectador a uma jornada rápida pelo impacto da alfabetização digital, destacando seu papel essencial na conexão com o mundo digital.
+
+[LINK PARA O VÍDEO AQUI](https://app.fliki.ai/editor/679a814fd5edd62f0309a183)
+
